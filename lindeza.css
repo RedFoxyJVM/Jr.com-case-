@@ -1,0 +1,31 @@
+body
+{
+  width: 90%;
+  max-width: 1980px;
+  margin: auto;
+  background: url(site.jpg) center;
+
+  font-family: sans-serif;
+  line-height: 2;
+  color: #36004a;
+}
+main
+{
+  background-color: #e1aaef59;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.logo,{
+  margin: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.pergunta{
+  margin-top: 50px
+  text-align: center;
+}
+.rodape{
+  margin-top: 100px;
+}
